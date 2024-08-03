@@ -4,8 +4,10 @@
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/main?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/main)
 [![Electron Discord Invite](https://img.shields.io/discord/745037351163527189?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.gg/electronjs)
 
-:memo: Available Translations: 🇨🇳 🇧🇷 🇪🇸 🇯🇵 🇷🇺 🇫🇷 🇺🇸 🇩🇪.
+📝 Available Translations: 🇨🇳 🇧🇷 🇪🇸 🇯🇵 🇷🇺 🇫🇷 🇺🇸 🇩🇪.
 View these docs in other languages on our [Crowdin](https://crowdin.com/project/electron) project.
+
+随便添加点内容，做个示范
 
 The Electron framework lets you write cross-platform desktop applications
 using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
@@ -39,7 +41,7 @@ For more installation options and troubleshooting tips, see
 Each Electron release provides binaries for macOS, Windows, and Linux.
 
 * macOS (Big Sur and up): Electron provides 64-bit Intel and Apple Silicon / ARM binaries for macOS.
-* Windows (Windows 10 and up): Electron provides `ia32` (`x86`), `x64` (`amd64`), and `arm64` binaries for Windows. Windows on ARM support was added in Electron 5.0.8. Support for Windows 7, 8 and 8.1 was [removed in Electron 23, in line with Chromium's Windows deprecation policy](https://www.electronjs.org/blog/windows-7-to-8-1-deprecation-notice).
+* Windows (Windows 10 and up): Electron provides `ia32` (`x86`), `x64` (`amd64`), and `arm64` binaries for Windows. Windows on ARM support was added in Electron 5.0.8. Support for Windows 7, 8 and 8.1 was [removed in Electron 23, in line with Chromium&#39;s Windows deprecation policy](https://www.electronjs.org/blog/windows-7-to-8-1-deprecation-notice).
 * Linux: The prebuilt binaries of Electron are built on Ubuntu 20.04. They have also been verified to work on:
   * Ubuntu 18.04 and newer
   * Fedora 32 and newer
